@@ -73,4 +73,3 @@ The repository is organized into four primary notebooks, split between the large
 
 This architecture is designed to provide a "middle ground" in NLP: more powerful than simple RNNs but significantly faster than Transformers. It is particularly effective for researchers or developers working with hardware constraints who still require state-of-the-art attention mechanisms.
 
-How are you planning to share your Kaggle notebooks—will you be linking the public Kaggle versions in the README as well?
