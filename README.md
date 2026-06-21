@@ -73,3 +73,9 @@ The repository is organized into four primary notebooks, split between the large
 
 This architecture is designed to provide a "middle ground" in NLP: more powerful than simple RNNs but significantly faster than Transformers. It is particularly effective for researchers or developers working with hardware constraints who still require state-of-the-art attention mechanisms.
 
+---
+
+TSA-Net: A Hybrid Convolutional Neural Network and Bidirectional LSTM Model with Multi-Head Attention for Large-Scale Twitter Sentiment Analysis
+MD Soyeb Hoque, Atrij Roy, Anumit Kumar Jana and Pawan Kumar Singh,* [0000-0002-9598-7981] (2026), 
+*State-of-the-Art Techniques in Text Mining for Healthcare Data Analysis and Prediction*, Springer Nature, Springer (Scopus Indexed). Submitted June, 2026.
+
